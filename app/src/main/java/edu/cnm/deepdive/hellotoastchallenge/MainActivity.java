@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.hellotoast;
+package edu.cnm.deepdive.hellotoastchallenge;
 
 import android.view.View;
 import android.widget.TextView;
